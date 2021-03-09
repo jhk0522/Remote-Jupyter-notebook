@@ -1,0 +1,7 @@
+#!/bin/bash
+module load vasp
+
+cd /afs/crc.nd.edu/user/j/jko1/research/jupyter_remote_access/h2o
+
+vasp_neb
+#end 

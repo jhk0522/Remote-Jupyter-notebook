@@ -1,0 +1,9 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 400.000000
+ EDIFF = 1.00e-04
+ EDIFFG = -3.00e-02
+ GGA = PE
+ IBRION = 1
+ ISMEAR = 0
+ NSW = 500
+ NCORE = 64
